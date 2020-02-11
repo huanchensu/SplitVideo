@@ -1,2 +1,2 @@
 # SplitVideo
-Split video into frames
+Split video into frames in Python codes
